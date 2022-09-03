@@ -1,0 +1,58 @@
+body{
+    background-color:hsl(212, 45%, 89%);
+   
+    padding-left: 50%;
+    padding-top: 50%;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: outfit;
+}
+.attribution { 
+    font-size: 11px; 
+    font-weight: 400;
+    font-family: outfit;
+    position: relative;
+    bottom: 495px;
+    left: 40px;
+
+   
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+    
+}
+
+.center{
+    display: block;
+    position: relative;
+    bottom: 495px;
+    left: 15px;
+    width:300px;
+
+    border-radius: 10px;
+ 
+}
+.flex{
+    position:relative;
+    width: 330px;
+    height: 510px;
+    border-radius: 20px;
+    background:hsl(0, 0%, 100%) ;
+}
+.skill{
+    font-size: 20px;
+    font-weight: 600;
+    font-family: outfit;
+    position: relative;
+    bottom: 500px;
+    left: 40px;
+}
+.Scan{
+    color:  hsl(220, 15%, 55%);
+    font-size: 14px;
+    font-weight: 400;
+    font-family: outfit;
+    position: relative;
+    bottom: 500px;
+    left: 40px;
+}
